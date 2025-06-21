@@ -1,4 +1,4 @@
-````markdown
+
 # Fireverse Music Bot
 
 Fireverse Music Bot adalah sebuah bot yang dirancang untuk memutar musik secara otomatis di platform Fireverse. Bot ini dapat memutar lagu, menyukai lagu, dan memberikan komentar secara otomatis. Bot ini juga dapat melacak waktu mendengarkan dan menyelesaikan tugas harian yang terkait dengan musik.
@@ -18,8 +18,6 @@ Anda dapat menginstal dependensi dengan menjalankan perintah berikut:
 ```bash
 pip install aiohttp colorama
 ```
-````
-
 ---
 
 ## 🚀 Cara Menggunakan
